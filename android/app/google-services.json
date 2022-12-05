@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005396059113",
+    "project_id": "univoffset",
+    "storage_bucket": "univoffset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005396059113:android:a1824a49c39d7398f8e178",
+        "android_client_info": {
+          "package_name": "com.example.univoffst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005396059113-kju1ec0q1prkqci0tvhk29p6aqce0hjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfL_oz4GuEkgnrzMiMR398tWvINTM1a10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005396059113-kju1ec0q1prkqci0tvhk29p6aqce0hjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
